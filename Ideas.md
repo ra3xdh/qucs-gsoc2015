@@ -25,7 +25,7 @@ tool). It's desirable to add inductor coupled resonators topology (see
 schematic) for passive filters. This topology is important for high-power 
 output fiters of RF power amplifiers.
 
-[!Inductive coupled resonator filter](http://storage4.static.itmages.ru/i/15/0216/h_1424090615_4023764_ea1990efc9.png)
+![Inductive coupled resonator filter](http://storage4.static.itmages.ru/i/15/0216/h_1424090615_4023764_ea1990efc9.png)
 
 **Expected results :**  New transfer function approximations and filter 
 topologies in `qucs-filter`
