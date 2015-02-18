@@ -9,7 +9,8 @@ Created: 22/01/2014
 ### Introduction
 
 Here is the list of our ideas for GSOC-2015. These ideas were contributed by 
-our developers.
+our developers. You can implement each of these ideas or propose your own.
+For more details contact with person responsible for this idea.
 
 ### Ideas list
 
@@ -58,27 +59,6 @@ models, electronics or electrical engineering
 
 **Contact person :** Vadim Kuznetsov ra3xdh@gmail.com
 
-#### Add more components with Spice-compatibility
-
-**Brief explanation :** Currently we are performing work on Qucs and other 
-SPICE-compatible circuit simulation backends interfacing (Ngspice and Xyce). 
-You can find current status of development here on issue tracker: 
-https://github.com/Qucs/qucs/issues/181 https://github.com/Qucs/qucs/issues/77 
-and on wikipage: 
-https://github.com/Qucs/qucs/wiki/QEP%3A-Qucs-schematic-simulation-with-ngspice
-
-It's need to add more spice-compatible components. It's need to implement spice 
-netlist builders for them for this purpose. 
-
-**Expected results :** More components in Qucs library
-
-**Task level :** easy
-
-**Required skills :** C++, Qt, SPICE models, electronics or electrical 
-engineering 
-
-**Contact person :** Vadim Kuznetsov ra3xdh@gmail.com
-
 #### Qucs library editor
 
 **Brief explanation :** Qucs libraries have XML text format. There is no 
@@ -90,7 +70,7 @@ manually. You will need to implement Qt-based GUI qucs-tool "Library editor".
 Lirary editor should perform the following functions:
 
 1. Edit component name and description 
-2. Attach component model from Qucs netlist or schematic
+2. Attach component models from Qucs netlist or schematic
 3. Attach Verilog and VHDL models
 4. Attach component symbol
 4. Attach specific netlist node names to component symbol pins

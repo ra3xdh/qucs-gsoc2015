@@ -61,6 +61,8 @@ Qucs is under GNU General Public License, version 2.0+.
 
 Ideas list is located here <https://github.com/ra3xdh/qucs/wiki/Qucs-GSOC-2015>
 
+If you want to prpose you own idea you can also send pull request to <https://github.com/ra3xdh/qucs-gsoc2015>
+
 ## Resources and contacts
 
   - Website: <http://qucs.sourceforge.net/>
@@ -72,6 +74,7 @@ Ideas list is located here <https://github.com/ra3xdh/qucs/wiki/Qucs-GSOC-2015>
     - <http://sourceforge.net/p/qucs/_list/tickets>
     - <https://github.com/Qucs/qucs/issues>
   - Downloads: <http://sourceforge.net/projects/qucs/files/>
+  - IRC: `#qucs` at freenode.net
 
 ## Administrator and Mentors
 
@@ -85,7 +88,7 @@ ideas list.
 
 Administrator is Vadim Kuznetsov <ra3xdh@gmail.com>  <https://github.com/ra3xdh>
 
-Backup administrator is 
+Backup administrator is Guilherme Brondani Torri <guitorri@gmail.com> <https://github.com/guitorri>
 
 ## Disappearing students and mentors
 
